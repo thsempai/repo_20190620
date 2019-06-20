@@ -1,1 +1,4 @@
-# repo_20190620
+# Super repo de la mort
+## To do
+- Cloner
+- revisions
